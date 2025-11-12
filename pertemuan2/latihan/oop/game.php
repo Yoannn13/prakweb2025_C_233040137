@@ -16,8 +16,8 @@
         }
     }
 
-    $produk1 = new Game("Uncharted", "Neil Druckmann", "Sony Computer", 250000, 50);
-    $produk2 = new Komik("Naruto", "Masasi Kishimoto", "Shonen Jump", 30000, 100);
+    $produk1 = new Game("GTA 5", "Dan Houser", "Rockstar Games", 250000, 50);
+    $produk2 = new Komik("One Piece", "Eichiro Oda", "Shonen Jump", 30000, 100);
 
     echo $produk1->getInfoProduk();
     echo "<br>";
