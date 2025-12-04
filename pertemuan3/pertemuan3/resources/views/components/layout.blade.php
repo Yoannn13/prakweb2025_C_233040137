@@ -12,13 +12,13 @@
     @endif
 </head>
 <body>
-    <nav class="bg-blue-600 text-white p-4 flex gap-6">
-        <a href="/" class="hover:bg-blue-700 px-3 py-2 rounded transition">Home</a>
-        <a href="/about" class="hover:bg-blue-700 px-3 py-2 rounded transition">About</a>
-        <a href="/posts" class="hover:bg-blue-700 px-3 py-2 rounded transition">Posts</a>
-        <a href="/categories" class="hover:bg-blue-700 px-3 py-2 rounded transition">Categories</a>
-        <a href="/blog" class="hover:bg-blue-700 px-3 py-2 rounded transition">Blog</a>
-        <a href="/contact" class="hover:bg-blue-700 px-3 py-2 rounded transition">Contact</a>
+    <nav class="bg-black text-white p-4 flex gap-6">
+        <a href="/" class="hover:bg-gray-800 px-3 py-2 rounded transition">Home</a>
+        <a href="/about" class="hover:bg-gray-800 px-3 py-2 rounded transition">About</a>
+        <a href="/posts" class="hover:bg-gray-800 px-3 py-2 rounded transition">Posts</a>
+        <a href="/categories" class="hover:bg-gray-800 px-3 py-2 rounded transition">Categories</a>
+        <a href="/blog" class="hover:bg-gray-800 px-3 py-2 rounded transition">Blog</a>
+        <a href="/contact" class="hover:bg-gray-800 px-3 py-2 rounded transition">Contact</a>
     </nav>
 
     <main class="min-h-screen">
