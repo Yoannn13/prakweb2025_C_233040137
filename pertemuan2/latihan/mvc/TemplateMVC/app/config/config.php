@@ -1,6 +1,6 @@
 <?php
 
-define("BASEURL", "http://localhost/prakweb2025_C_233040124/pertemuan2/tugas/MVC/TemplateMVC/public/");
+define("BASEURL", "http://localhost/prakweb2025_C_233040137/pertemuan2/latihan/mvc/TemplateMVC/public/");
 
 // DATANASE
 define('DB_HOST', 'localhost');
