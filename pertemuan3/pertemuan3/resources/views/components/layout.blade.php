@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="border-t border-gray-700 pt-8 text-center text-gray-400">
-                <p>&copy; 2024 Latihan Website. All rights reserved.</p>
+                <p>&copy; 2025 Latihan Website. All rights reserved.</p>
             </div>
         </div>
     </footer>
